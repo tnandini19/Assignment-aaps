@@ -1,0 +1,1 @@
+/*The sliding window technique is a method for solving problems that involve contiguous subarrays or substrings. Instead of using nested loops (which can be slow), this technique uses a window that slides over the array to examine one part at a time, improving efficiency.*/

@@ -1,0 +1,5 @@
+/*A priority queue is a data structure where each element is associated with a priority. The element with the highest priority is always served before elements with lower priority, even if they were inserted earlier. It is commonly implemented using a heap, which ensures efficient operations for insertion and removal.
+
+Priority queues are used in various algorithms, such as Dijkstra’s shortest path for finding the shortest path in a graph and Huffman encoding for efficient data compression. They are also applied in scheduling problems, where tasks with higher priorities are executed before others.
+
+This data structure helps optimize decision-making and resource management in fields like operating systems, network routing, and event-driven simulations. Its efficiency comes from the ability to quickly access the highest or lowest priority element.*/
