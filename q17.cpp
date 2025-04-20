@@ -32,3 +32,4 @@ int main() {
     return 0;
 }
 //time complexity: O(n), space complexity: O(n)
+// The code calculates the amount of water that can be trapped after raining given an array of heights.
